@@ -19,7 +19,7 @@ cd blackjack-nodejs
 npm install
 ```
 
-### Set up PostgrSQL database by adding a .env file
+### Set up PostgreSQL database by adding a .env file
 ```
 DB_HOST=
 DB_PORT=
